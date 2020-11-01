@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Overlays
+## Interface: 90001
+## Author: Kab
+## Version: 1.02
+## Notes: Disables Spell Alerts on a per class basis. Change the values in the .lua to configure.
+
+KabOverlays.lua
